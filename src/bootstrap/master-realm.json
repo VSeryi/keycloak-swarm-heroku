@@ -1,8 +1,8 @@
 {
   "id" : "master",
   "realm" : "master",
-  "displayName" : "Keycloak",
-  "displayNameHtml" : "<div class=\"kc-logo-text\"><span>Keycloak</span></div>",
+  "displayName" : "MagicBean",
+  "displayNameHtml" : "<div class=\"kc-logo-text\"><span>MagicBean</span></div>",
   "notBefore" : 0,
   "revokeRefreshToken" : false,
   "accessTokenLifespan" : 60,
@@ -1220,14 +1220,14 @@
     "failureFactor" : "30",
     "quickLoginCheckMilliSeconds" : "1000",
     "maxDeltaTimeSeconds" : "43200",
-    "displayName" : "Keycloak",
+    "displayName" : "MagicBean",
     "_browser_header.xContentTypeOptions" : "nosniff",
     "bruteForceProtected" : "false",
     "maxFailureWaitSeconds" : "900",
     "_browser_header.contentSecurityPolicy" : "frame-src 'self'",
     "minimumQuickLoginWaitSeconds" : "60",
-    "displayNameHtml" : "<div class=\"kc-logo-text\"><span>Keycloak</span></div>",
+    "displayNameHtml" : "<div class=\"kc-logo-text\"><span>MagicBean</span></div>",
     "waitIncrementSeconds" : "60"
   },
-  "keycloakVersion" : "2.5.4.Final"
+  "keycloakVersion" : "4.1.0.Final"
 }
